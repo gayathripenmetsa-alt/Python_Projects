@@ -1,0 +1,4 @@
+text = "mail"
+rev = reversed(text)
+revtext = "".join(rev)
+print (revtext)

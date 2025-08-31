@@ -1,0 +1,7 @@
+def reverse_of_string():
+    name = input("enter the name: ")
+    length = len(name)
+    reversed_name = name[::-1]
+    print(reversed_name )
+
+reverse_of_string()
